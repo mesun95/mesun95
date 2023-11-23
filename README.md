@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 I am Mengru from Chemnitz University of Technology.
+
+- 🙌 I'm currently learning Pycharm
+- 😃 Pronouns: She/Her
 
 <!--
 **mesun95/mesun95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
